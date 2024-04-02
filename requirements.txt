@@ -1,0 +1,9 @@
+joblib
+streamlit
+scikit-learn
+pandas
+numpy
+openai==0.28
+streamlit
+streamlit_chat
+python-dotenv
